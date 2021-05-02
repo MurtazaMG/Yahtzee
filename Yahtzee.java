@@ -2,8 +2,6 @@
  * Yahtzee.java.
  * Display and play a Yahtzee game in GUI
  * Murtaza Gangardiwala
- * ICS3U1
- * Jan 15, 2020.
  */
 import javax.swing.*;
 import java.awt.*;
@@ -191,7 +189,7 @@ Promo3 = new JLabel("Yahtzee Game");//this label fills in space
  sixP.setVisible(false);
  contentPane.add(sixP);
  
- Promo2 = new JLabel("G.U.I. CPT");//filler
+ Promo2 = new JLabel("G.U.I.");//filler
  Promo2.setFont(new Font("Monospaced", Font.BOLD, 20));
  contentPane.add(Promo2);
  
